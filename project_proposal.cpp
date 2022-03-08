@@ -57,7 +57,7 @@ void Courses::course_list()//koyta course ache
 
 }
 
-class Grades//etar association pari na -.-
+class Grades//association?
 {
     float marks;
 public:
